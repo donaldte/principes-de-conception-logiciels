@@ -11,6 +11,12 @@ class InvoiceManager:
         # Logique pour envoyer la facture par email
         pass
 
+
+
+
+
+
+
 # correct code
 
 class InvoiceCalculator:
